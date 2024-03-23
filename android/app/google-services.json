@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434829402890",
+    "project_id": "practical-word-game",
+    "storage_bucket": "practical-word-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434829402890:android:513138ec91ecbd739890f3",
+        "android_client_info": {
+          "package_name": "com.prctical.word_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3aZj4b_DU0BQjTO6XHP6T4KBPe03skac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
