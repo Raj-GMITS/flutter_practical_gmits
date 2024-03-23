@@ -1,0 +1,20 @@
+###Login
+https://dummyjson.com/docs/auth#login
+
+###Register
+https://dummyjson.com/docs/users#add
+
+###Products List
+https://dummyjson.com/docs/products#all
+
+###Search Products
+https://dummyjson.com/docs/products#search
+
+Task-
+1. Run this project to latest flutter version fix errors to run
+2. Integrate Above Apis and push the code and Send Release Apk
+
+Note:
+- Make UI as per your consideration and api data but ui should look proper
+
+  
